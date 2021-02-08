@@ -5,7 +5,7 @@ import NetcatClient from 'netcat/client';
 const DEFAULT_PORTS = [
   9000, // tcp/udp for teku, nimbus, lighthouse
   12000, // udb for prysm
-  13000, // tcp for beacon prysm
+  13000, // tcp for prysm
   30303, // eth1 (geth, nethermind)
 ];
 
